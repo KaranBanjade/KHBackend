@@ -1,0 +1,1 @@
+This folder contains small functions which help with apis.
